@@ -24,9 +24,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://drive.google.com/file/d/1NbdhOYnVMLN2P_GdQSMXXE20EuKgfHcc/view?usp=sharing' title='https://drive.google.com/file/d/1NbdhOYnVMLN2P_GdQSMXXE20EuKgfHcc/view?usp=sharing' width='' alt='https://drive.google.com/file/d/1NbdhOYnVMLN2P_GdQSMXXE20EuKgfHcc/view?usp=sharing' />
-
 <!-- Replace this with whatever GIF tool you used! -->
+
+https://drive.google.com/file/d/1NbdhOYnVMLN2P_GdQSMXXE20EuKgfHcc/view?usp=drive_link
 
 GIF created with Screen Recording then shared on Google Drive. Please copy paste link into browser to view.
 
